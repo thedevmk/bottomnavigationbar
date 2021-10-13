@@ -8,6 +8,14 @@
     android:id="@+id/body_container"
     android:background="@color/light_white">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bottom Navigation Bar Example"
+        android:textSize="39sp"
+        android:textColor="@color/green"
+        />
+
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
