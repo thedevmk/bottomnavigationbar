@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/nav_dailyQuest"
+    android:title="@string/dailyQuest"
+    android:icon="@drawable/ic_dailyquest"
+    />
+
+    <item android:id="@+id/nav_penalty"
+        android:title="@string/penalty"
+        android:icon="@drawable/ic_penalty"
+        />
+
+    <item android:id="@+id/nav_inventory"
+        android:title="@string/inventory"
+        android:icon="@drawable/ic_inventory"
+        />
+
+</menu>
